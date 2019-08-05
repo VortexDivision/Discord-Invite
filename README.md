@@ -1,4 +1,3 @@
-# Vortex Division Discord Invite
 <HTML>
 <HEAD>
 <TITLE>
