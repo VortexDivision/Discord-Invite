@@ -1,4 +1,4 @@
-# Vortex Division discord invite
+# Vortex Division Discord Invite
 <HTML>
 <HEAD>
 <TITLE>
