@@ -1,5 +1,4 @@
-# discord
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+# Vortex Division discord invite
 <HTML>
 <HEAD>
 <TITLE>
